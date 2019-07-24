@@ -16,7 +16,7 @@ limitNum = 100
 
 def generateGuessNumber():
     """
-    Randomly generates a number between 1-100 to be guessed by user.
+    Randomly generate a number between 1-100 to be guessed by user.
     """
     
     global numberToGuess
